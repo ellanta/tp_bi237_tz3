@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-24T21:37:18.160Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="HM9Gmo2nBpW-JKd_GbI1" version="24.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-24T21:39:09.387Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="VTcm-CqNwPMxMt3hnukO" version="24.4.8" type="github">
   <diagram name="Страница — 1" id="bDlWwtJ3hMFZXz8iv6Gv">
     <mxGraphModel dx="1494" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="40" y="10" width="760" height="520" as="geometry" />
         </mxCell>
         <mxCell id="U14gPi64VE2rH1qD27yJ-4" value="Ресторан" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="80" width="30" height="60" as="geometry" />
+          <mxGeometry x="740" y="80" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U14gPi64VE2rH1qD27yJ-6" value="Курьер" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="280" width="30" height="60" as="geometry" />
